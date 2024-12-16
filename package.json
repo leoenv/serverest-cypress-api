@@ -1,0 +1,8 @@
+{
+  "name": "serverest-cypress-backend",
+  "version": "1.0.0",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
